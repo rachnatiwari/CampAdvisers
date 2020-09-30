@@ -4,7 +4,7 @@
 
 - Camping blog application where users can add, update and delete posts about the camping sites they visit. These posts can be viewed and reviewed by other users. User authentication is needed for reviewing and adding posts.
 - **NodeJS** using Express framework with **MongoDB** as database.
-- [Video](https://drive.google.com/file/d/1OeBJjihnQe3aqUmJRKZbj0t5gNnKaEOI/view?usp=sharing)
+<!-- - [Video](https://drive.google.com/file/d/1OeBJjihnQe3aqUmJRKZbj0t5gNnKaEOI/view?usp=sharing) -->
 
 ## Technology Stack
 
